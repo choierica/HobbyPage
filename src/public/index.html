@@ -13,12 +13,17 @@
     <a href="about.html">About</a>
     <a href="about.html">User</a>
 </div>
+
 <div id="input">
-      <textarea rows="4" cols="50">
+      <textarea rows="4" cols="50" id = "msg_area" placeholder="Enter your message">
        </textarea>
-       <input id= "submit" type="submit" value="Post!">
+    <input id="submit" onclick= "onMsgSubmit()" type="submit" value="Post!">
+    <input id="clear" onclick= "deleteMessages()" type="submit" value="Clear!">
 </div>
-
-
+<div class="boxed" align="center" id='post_messages'>
+</div>
+<script
+        src="../action/index.js">
+</script>
 </body>
 </html>
