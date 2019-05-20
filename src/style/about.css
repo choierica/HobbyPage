@@ -64,13 +64,13 @@ body {margin:0;font-family:Arial}
     display: inline-block;
 }
 .dhn-info-div0 p {
-    padding: 80px 80px 80px 30px;
+    padding: 100px 0px 0px 30px;
     color: #295eb2;
     font-size: 20px;
 
     line-height: 35px;
     word-spacing: 3px;
-    width: 40%;
+    width: 45%;
     float: left;
 }
 
