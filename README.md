@@ -1,2 +1,2 @@
 # CPSC436I-Assignments
-Assignment repo for CPSC436I
+Web-application that allows users to share their hobbies!
